@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#change-size {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  border: 2px solid #000;
+}
+
+.square {
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  width: 31.25px;
+  height: 31.25px
+}
