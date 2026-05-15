@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-#change-size {
+#change-size, #reset {
   margin-bottom: 20px;
   padding: 10px 20px;
   font-size: 16px;
